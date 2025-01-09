@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataLeak</string>
+    <string name="about_title">About</string>
+    <string name="about_desc">Based on data shared by Hudson Rock (@RockHudsonRock) and Baptiste Robert (@fs0c131y)</string>
+    <string name="main_desc">List of apps installed on this device potentially involved in an alleged Gravy Analytics data leak.</string>
+    <string name="version_desc">%1$s v%2$s by @HandyMenny</string>
+    <string name="about_btn">About</string>
+    <string name="app_info_btn">App Info</string>
+    <string name="app_disabled">%1$s (disabled)</string>
+</resources>
